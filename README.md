@@ -1,39 +1,39 @@
-<h1>My Portfolio</h1>
+ <h1>My Portfolio</h1>
 
-Basic and minimalist portfolio site to present my work and abilities.
+<p>Basic and minimalist portfolio site to present my work and abilities.</p>
 
- <h1>About</h1>
+<h1>About</h1>
 
-This is my individual portfolio created by using HTML, CSS, and JavaScript.
+<p>This is my individual portfolio created by using HTML, CSS, and JavaScript.</p>
 
- <h1>Features</h1>
+<h1>Features</h1>
 
-Responsive design
+<ul>
+  <li>Responsive design</li>
+  <li>About section</li>
+  <li>Services showcase</li>
+  <li>Testimonials</li>
+  <li>Contact form</li>
+</ul>
 
-About section
+<h1>Technologies</h1>
 
-Services showcase
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-Testimonials
+<h1>How to Use</h1>
 
-Contact form
+<ul>
+  <li>Clone this repository</li>
+  <li>Browse into open index.html.</li>
+</ul>
 
-Technologies
+<h1>Author</h1>
 
-HTML
+<p>devareeshamaryam</p>
 
-CSS
+<p>⭐ Star this repo if you like it!</p>
 
-JavaScript
-
-How to Use
-
-Clone this repository
-
-Browse into open index.html.
-
-Author
-
-Devareesh Amaryam
-
-⭐ Star this repo if you like it!
