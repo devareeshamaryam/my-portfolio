@@ -1,12 +1,12 @@
- My Portfolio
+<h1>My Portfolio</h1>
 
 Basic and minimalist portfolio site to present my work and abilities.
 
-About
+ <h1>About</h1>
 
 This is my individual portfolio created by using HTML, CSS, and JavaScript.
 
-Features
+ <h1>Features</h1>
 
 Responsive design
 
